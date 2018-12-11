@@ -19,4 +19,4 @@ Feel free to submit pull requests to me.
 * **Muhammad Haseeb** - *Initial work* - [Muhammad Haseeb](https://github.com/iam-mhaseeb)
 
 ## Licensing
-The Quixell project is [MIT Licenced](LICENSE). Feel free to use commercially or personally.
+The Instagram-Bot project is [MIT Licenced](LICENSE). Feel free to use commercially or personally.
